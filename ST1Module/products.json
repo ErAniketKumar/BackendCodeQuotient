@@ -1,0 +1,6 @@
+[
+  {"Title": "Banana", "Category": "Fruit", "Price": 100},
+  {"Title": "Pea", "Category": "vegitable", "Price": 50},
+  {"Title": "Rice", "Category": "Food", "Price": 150}
+
+]
